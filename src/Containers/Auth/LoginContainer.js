@@ -5,7 +5,7 @@ import { FONTFAMILIES, SPACING } from '../../Themes/Themes'
 const LoginContainer = () => {
   return (
     <View>
-      <Text style={{paddingTop:SPACING.md , fontFamily: FONTFAMILIES.bold}}>LoginContainer</Text>
+      <Text style={{paddingTop:SPACING.md , fontFamily: FONTFAMILIES.bold}}>LoginContainer raju</Text>
     </View>
   )
 }

@@ -32,11 +32,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "@babel/core@npm:^7.11.6, @babel/core@npm:^7.12.3, @babel/core@npm:^7.13.16, @babel/core@npm:^7.20.0, @babel/core@npm:^7.21.3, @babel/core@npm:^7.23.9":
-=======
-"@babel/core@npm:^7.11.6, @babel/core@npm:^7.12.3, @babel/core@npm:^7.13.16, @babel/core@npm:^7.20.0, @babel/core@npm:^7.23.9":
->>>>>>> Stashed changes
   version: 7.25.7
   resolution: "@babel/core@npm:7.25.7"
   dependencies:
@@ -1620,11 +1616,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "@babel/types@npm:^7.0.0, @babel/types@npm:^7.20.0, @babel/types@npm:^7.20.7, @babel/types@npm:^7.21.3, @babel/types@npm:^7.24.7, @babel/types@npm:^7.25.7, @babel/types@npm:^7.3.3, @babel/types@npm:^7.4.4":
-=======
-"@babel/types@npm:^7.0.0, @babel/types@npm:^7.20.0, @babel/types@npm:^7.20.7, @babel/types@npm:^7.24.7, @babel/types@npm:^7.25.7, @babel/types@npm:^7.3.3, @babel/types@npm:^7.4.4":
->>>>>>> Stashed changes
   version: 7.25.7
   resolution: "@babel/types@npm:7.25.7"
   dependencies:
@@ -2539,7 +2531,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "@react-navigation/core@npm:^6.4.17":
   version: 6.4.17
   resolution: "@react-navigation/core@npm:6.4.17"
@@ -2608,8 +2599,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "@sideway/address@npm:^4.1.5":
   version: 4.1.5
   resolution: "@sideway/address@npm:4.1.5"
@@ -2658,7 +2647,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "@svgr/babel-plugin-add-jsx-attribute@npm:8.0.0":
   version: 8.0.0
   resolution: "@svgr/babel-plugin-add-jsx-attribute@npm:8.0.0"
@@ -2806,8 +2794,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "@types/babel__core@npm:^7.1.14":
   version: 7.20.5
   resolution: "@types/babel__core@npm:7.20.5"
@@ -3092,9 +3078,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"Backend@workspace:.":
+"Sample@workspace:.":
   version: 0.0.0-use.local
-  resolution: "Backend@workspace:."
+  resolution: "Sample@workspace:."
   dependencies:
     "@babel/core": ^7.20.0
     "@babel/preset-env": ^7.20.0
@@ -3103,32 +3089,23 @@ __metadata:
     "@react-native/eslint-config": 0.73.2
     "@react-native/metro-config": 0.73.5
     "@react-native/typescript-config": 0.73.1
-<<<<<<< Updated upstream
     "@react-navigation/native": ^6.1.18
     "@react-navigation/native-stack": ^6.11.0
-=======
->>>>>>> Stashed changes
     "@types/react": ^18.2.6
     "@types/react-test-renderer": ^18.0.0
     babel-jest: ^29.6.3
     eslint: ^8.19.0
-<<<<<<< Updated upstream
     html-entities: ^2.5.2
-=======
->>>>>>> Stashed changes
     jest: ^29.6.3
     prettier: 2.8.8
     react: 18.2.0
     react-native: 0.73.9
-<<<<<<< Updated upstream
     react-native-element-dropdown: ^2.12.1
     react-native-loading-spinner-overlay: ^3.0.1
     react-native-safe-area-context: ^4.11.0
     react-native-screens: ^3.34.0
     react-native-svg: ^15.7.1
     react-native-svg-transformer: ^1.5.0
-=======
->>>>>>> Stashed changes
     react-test-renderer: 18.2.0
     typescript: 5.0.4
   languageName: unknown
@@ -3617,7 +3594,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "boolbase@npm:^1.0.0":
   version: 1.0.0
   resolution: "boolbase@npm:1.0.0"
@@ -3625,8 +3601,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "brace-expansion@npm:^1.1.7":
   version: 1.1.11
   resolution: "brace-expansion@npm:1.1.11"
@@ -4002,7 +3976,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "commander@npm:^7.2.0":
   version: 7.2.0
   resolution: "commander@npm:7.2.0"
@@ -4010,8 +3983,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "commander@npm:^9.4.1":
   version: 9.5.0
   resolution: "commander@npm:9.5.0"
@@ -4104,7 +4075,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "cosmiconfig@npm:^8.1.3":
   version: 8.3.6
   resolution: "cosmiconfig@npm:8.3.6"
@@ -4122,8 +4092,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "create-jest@npm:^29.7.0":
   version: 29.7.0
   resolution: "create-jest@npm:29.7.0"
@@ -4152,7 +4120,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "css-select@npm:^5.1.0":
   version: 5.1.0
   resolution: "css-select@npm:5.1.0"
@@ -4212,8 +4179,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "csstype@npm:^3.0.2":
   version: 3.1.3
   resolution: "csstype@npm:3.1.3"
@@ -4289,7 +4254,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "decode-uri-component@npm:^0.2.2":
   version: 0.2.2
   resolution: "decode-uri-component@npm:0.2.2"
@@ -4297,8 +4261,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "dedent@npm:^1.0.0":
   version: 1.5.3
   resolution: "dedent@npm:1.5.3"
@@ -4318,11 +4280,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "deepmerge@npm:^4.2.2, deepmerge@npm:^4.3.0, deepmerge@npm:^4.3.1":
-=======
-"deepmerge@npm:^4.2.2, deepmerge@npm:^4.3.0":
->>>>>>> Stashed changes
   version: 4.3.1
   resolution: "deepmerge@npm:4.3.1"
   checksum: 2024c6a980a1b7128084170c4cf56b0fd58a63f2da1660dcfe977415f27b17dbe5888668b59d0b063753f3220719d5e400b7f113609489c90160bb9a5518d052
@@ -4433,7 +4391,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "dom-serializer@npm:^2.0.0":
   version: 2.0.0
   resolution: "dom-serializer@npm:2.0.0"
@@ -4482,8 +4439,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "eastasianwidth@npm:^0.2.0":
   version: 0.2.0
   resolution: "eastasianwidth@npm:0.2.0"
@@ -4549,7 +4504,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "entities@npm:^4.2.0, entities@npm:^4.4.0":
   version: 4.5.0
   resolution: "entities@npm:4.5.0"
@@ -4557,8 +4511,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "env-paths@npm:^2.2.0":
   version: 2.2.1
   resolution: "env-paths@npm:2.2.1"
@@ -5188,7 +5140,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "filter-obj@npm:^1.1.0":
   version: 1.1.0
   resolution: "filter-obj@npm:1.1.0"
@@ -5196,8 +5147,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "finalhandler@npm:1.1.2":
   version: 1.1.2
   resolution: "finalhandler@npm:1.1.2"
@@ -5665,7 +5614,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "html-entities@npm:^2.5.2":
   version: 2.5.2
   resolution: "html-entities@npm:2.5.2"
@@ -5673,8 +5621,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "html-escaper@npm:^2.0.0":
   version: 2.0.2
   resolution: "html-escaper@npm:2.0.2"
@@ -5773,11 +5719,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "import-fresh@npm:^3.2.1, import-fresh@npm:^3.3.0":
-=======
-"import-fresh@npm:^3.2.1":
->>>>>>> Stashed changes
   version: 3.3.0
   resolution: "import-fresh@npm:3.3.0"
   dependencies:
@@ -7063,7 +7005,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "lower-case@npm:^2.0.2":
   version: 2.0.2
   resolution: "lower-case@npm:2.0.2"
@@ -7073,8 +7014,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "lru-cache@npm:^10.0.1, lru-cache@npm:^10.2.0":
   version: 10.4.3
   resolution: "lru-cache@npm:10.4.3"
@@ -7146,7 +7085,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "mdn-data@npm:2.0.14":
   version: 2.0.14
   resolution: "mdn-data@npm:2.0.14"
@@ -7168,8 +7106,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "memoize-one@npm:^5.0.0":
   version: 5.2.1
   resolution: "memoize-one@npm:5.2.1"
@@ -7624,7 +7560,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "nanoid@npm:^3.1.23":
   version: 3.3.7
   resolution: "nanoid@npm:3.3.7"
@@ -7634,8 +7569,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "natural-compare-lite@npm:^1.4.0":
   version: 1.4.0
   resolution: "natural-compare-lite@npm:1.4.0"
@@ -7664,7 +7597,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "no-case@npm:^3.0.4":
   version: 3.0.4
   resolution: "no-case@npm:3.0.4"
@@ -7675,8 +7607,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "nocache@npm:^3.0.1":
   version: 3.0.4
   resolution: "nocache@npm:3.0.4"
@@ -7782,7 +7712,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "nth-check@npm:^2.0.1":
   version: 2.1.1
   resolution: "nth-check@npm:2.1.1"
@@ -7792,8 +7721,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "nullthrows@npm:^1.1.1":
   version: 1.1.1
   resolution: "nullthrows@npm:1.1.1"
@@ -8076,7 +8003,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "path-dirname@npm:^1.0.2":
   version: 1.0.2
   resolution: "path-dirname@npm:1.0.2"
@@ -8084,8 +8010,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "path-exists@npm:^3.0.0":
   version: 3.0.0
   resolution: "path-exists@npm:3.0.0"
@@ -8307,7 +8231,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "query-string@npm:^7.1.3":
   version: 7.1.3
   resolution: "query-string@npm:7.1.3"
@@ -8320,8 +8243,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "queue-microtask@npm:^1.2.2":
   version: 1.2.3
   resolution: "queue-microtask@npm:1.2.3"
@@ -8355,7 +8276,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "react-freeze@npm:^1.0.0":
   version: 1.0.4
   resolution: "react-freeze@npm:1.0.4"
@@ -8365,8 +8285,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "react-is@npm:^16.12.0 || ^17.0.0 || ^18.0.0, react-is@npm:^18.0.0, react-is@npm:^18.2.0":
   version: 18.3.1
   resolution: "react-is@npm:18.3.1"
@@ -8374,11 +8292,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "react-is@npm:^16.13.0, react-is@npm:^16.13.1":
-=======
-"react-is@npm:^16.13.1":
->>>>>>> Stashed changes
   version: 16.13.1
   resolution: "react-is@npm:16.13.1"
   checksum: f7a19ac3496de32ca9ae12aa030f00f14a3d45374f1ceca0af707c831b2a6098ef0d6bdae51bd437b0a306d7f01d4677fcc8de7c0d331eb47ad0f46130e53c5f
@@ -8392,7 +8306,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "react-native-element-dropdown@npm:^2.12.1":
   version: 2.12.1
   resolution: "react-native-element-dropdown@npm:2.12.1"
@@ -8467,8 +8380,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "react-native@npm:0.73.9":
   version: 0.73.9
   resolution: "react-native@npm:0.73.9"
@@ -9120,7 +9031,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "snake-case@npm:^3.0.4":
   version: 3.0.4
   resolution: "snake-case@npm:3.0.4"
@@ -9131,8 +9041,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "socks-proxy-agent@npm:^8.0.3":
   version: 8.0.4
   resolution: "socks-proxy-agent@npm:8.0.4"
@@ -9154,7 +9062,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "source-map-js@npm:^1.0.1":
   version: 1.2.1
   resolution: "source-map-js@npm:1.2.1"
@@ -9162,8 +9069,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "source-map-support@npm:0.5.13":
   version: 0.5.13
   resolution: "source-map-support@npm:0.5.13"
@@ -9205,7 +9110,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "split-on-first@npm:^1.0.0":
   version: 1.1.0
   resolution: "split-on-first@npm:1.1.0"
@@ -9213,8 +9117,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "sprintf-js@npm:^1.1.3":
   version: 1.1.3
   resolution: "sprintf-js@npm:1.1.3"
@@ -9277,7 +9179,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "strict-uri-encode@npm:^2.0.0":
   version: 2.0.0
   resolution: "strict-uri-encode@npm:2.0.0"
@@ -9285,8 +9186,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "string-length@npm:^4.0.1":
   version: 4.0.2
   resolution: "string-length@npm:4.0.2"
@@ -9504,7 +9403,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "svg-parser@npm:^2.0.4":
   version: 2.0.4
   resolution: "svg-parser@npm:2.0.4"
@@ -9529,8 +9427,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "tar@npm:^6.1.11, tar@npm:^6.2.1":
   version: 6.2.1
   resolution: "tar@npm:6.2.1"
@@ -9654,11 +9550,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "tslib@npm:^2.0.1, tslib@npm:^2.0.3":
-=======
-"tslib@npm:^2.0.1":
->>>>>>> Stashed changes
   version: 2.7.0
   resolution: "tslib@npm:2.7.0"
   checksum: 1606d5c89f88d466889def78653f3aab0f88692e80bb2066d090ca6112ae250ec1cfa9dbfaab0d17b60da15a4186e8ec4d893801c67896b277c17374e36e1d28
@@ -9890,7 +9782,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "use-latest-callback@npm:^0.2.1":
   version: 0.2.1
   resolution: "use-latest-callback@npm:0.2.1"
@@ -9900,8 +9791,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "util-deprecate@npm:^1.0.1, util-deprecate@npm:~1.0.1":
   version: 1.0.2
   resolution: "util-deprecate@npm:1.0.2"
@@ -9950,7 +9839,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-<<<<<<< Updated upstream
 "warn-once@npm:0.1.1, warn-once@npm:^0.1.0":
   version: 0.1.1
   resolution: "warn-once@npm:0.1.1"
@@ -9958,8 +9846,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-=======
->>>>>>> Stashed changes
 "wcwidth@npm:^1.0.1":
   version: 1.0.1
   resolution: "wcwidth@npm:1.0.1"
